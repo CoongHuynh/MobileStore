@@ -1,10 +1,27 @@
 # mock_project
 
-A new Flutter project.
+#database
+ở trong source có file import_database chứa data của dự án
+cả file postman hay server ảo đều được upload lên
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+—Hướng dẫn sử dụng API
+—Chuẩn bị MySQL:
+Database name: MobileStores
+username: root
+password: Passw0rd
+
+—Cài đặt JDK21
+
+—Run API trong CMD
+java -jar r2s-mobile-store.jar
+
+
+—Admin
+username: admin
+password: Abc@12345
+
 
 A few resources to get you started if this is your first Flutter project:
 
